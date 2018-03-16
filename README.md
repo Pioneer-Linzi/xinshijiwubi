@@ -7,3 +7,4 @@
 	rime-install Pioneer-Linzi/xinshijiwubi 
 ```
 安装之后， 再去 用户目录下面 改一下 default.yml 的配置文件，把 xinshijiwubi 加上，重新部署一下，就可以使用了，
+![](https://ws1.sinaimg.cn/large/006tNc79ly1fpf4ocrg7vj30c809ymxe.jpg)
