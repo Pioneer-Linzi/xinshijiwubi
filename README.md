@@ -8,3 +8,6 @@
 ```
 安装之后， 再去 用户目录下面 改一下 default.yaml 的配置文件，把 xinshijiwubi 加上，重新部署一下，就可以使用了，
 ![](https://ws1.sinaimg.cn/large/006tNc79ly1fpf4ocrg7vj30c809ymxe.jpg)
+
+
+## 内附一个qq 五笔导出来我原来自用的字库
